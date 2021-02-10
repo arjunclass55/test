@@ -1,0 +1,12 @@
+First md directory of where the file to be need to send on git hub
+
+Then open terminal type the cd folder name
+And view the list of file in that folder ls
+After that open git add .
+Give git command
+Git status
+Git init
+Creating for new file on that folder touch sample demo.txt
+Git add .
+Git commit -m (name of the title)
+Git push
